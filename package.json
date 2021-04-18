@@ -4,5 +4,11 @@
   "description": "NodeJS application with Husky and Commitlint",
   "main": "index.js",
   "author": "Alexander Tchoulkov <alxolo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
