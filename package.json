@@ -1,0 +1,8 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS application with Husky and Commitlint",
+  "main": "index.js",
+  "author": "Alexander Tchoulkov <alxolo@gmail.com>",
+  "license": "MIT"
+}
